@@ -25,7 +25,7 @@ Because I could. And because overcomplicating a static landing page with server-
 
 3. Run the dev server (brace yourself):
    ```bash
-   npm run dev
+   pnpm run dev
    ```
 
 4. Open [http://localhost:3000](http://localhost:3000) and prepare to be amazed.
